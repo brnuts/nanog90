@@ -1,6 +1,7 @@
 # NANOG90 code examples
 For performace testing between Python, Pypy, Go and Rust
-Results are at <a href="results/README.md">RESULTS/</a>
+
+Some results are at <a href="results/README.md">RESULTS</a>
 
 ## Language versions used
 
