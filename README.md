@@ -1,17 +1,8 @@
 # NANOG90 code examples
 For performace testing between Python, Pypy, Go and Rust
+Results are at <a href="results/README.md">RESULTS/</a>
 
-# Results
-## Flipsum
-![alt text](https://github.com/brnuts/nanog90/blob/master/results/Flipsum-speed.png| width=100)
-![alt text](https://github.com/brnuts/nanog90/blob/master/results/Flipsum-CPU.png| width=100)
-![alt text](https://github.com/brnuts/nanog90/blob/master/results/Flipsum-memory.png| width=100)
-
-## Prime
-![alt text](https://github.com/brnuts/nanog90/blob/master/results/Prime-speed.png| width=100) ![alt text](https://github.com/brnuts/nanog90/blob/master/results/Prime-CPU.png| width=100) ![alt text](https://github.com/brnuts/nanog90/blob/master/results/Prime-memory.png| width=100)
-
-
-## Language versions used here
+## Language versions used
 
 ### Python version
 ```
