@@ -1,11 +1,11 @@
 # NANOG90 code examples
-# for performace testing between Python, Pypy, Go and Rust
+For performace testing between Python, Pypy, Go and Rust
 
-## Language versions
+## Language versions used here
 
 ### Python version
 ```
-root@telco:~/code/nanog90% python3.12 --version
+claus@telco:~/code/nanog90% python3.12 --version
 Python 3.12.0
 ```
 
